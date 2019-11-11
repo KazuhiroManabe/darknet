@@ -1,5 +1,0 @@
-/cotent/darknet/data/ninzin1/000010.jpg
-/cotent/darknet/data/ninzin1/000020.jpg
-/cotent/darknet/data/ninzin1/000030.jpg
-/cotent/darknet/data/ninzin1/000040.jpg
-/cotent/darknet/data/ninzin1/000050.jpg
