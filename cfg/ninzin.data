@@ -1,5 +1,0 @@
-classes= 1
-train  = cfg/ninzin-train.txt
-valid  = cfg/ninzin-test.txt
-names = data/ninzin.names
-backup = backup
